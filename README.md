@@ -16,8 +16,8 @@ This is a simple Q&A game built with React and TypeScript. The game loads a ques
 ## Demo
 
 ![Demo](Demo/demo.gif)
-![Question Screen](screenshots/question.jpg)
-![Answer Screen](screenshots/answer.jpg)
+![Question Screen](screenshots/question.JPG)
+![Answer Screen](screenshots/answer.JPG)
 
 ## Table of Contents
 
@@ -51,27 +51,7 @@ This is a simple Q&A game built with React and TypeScript. The game loads a ques
     -You will see a question and two buttons. Click on "Yes" or "No" to see the corresponding response.
 
 ## Developement
-# File structre
-technical-exo/
-├── public/
-│   ├── data.json      # JSON file containing the question and answers
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   └── Question.tsx  # Main component
-│   ├── App.tsx
-│   ├── index.tsx
-│   ├── index.css
-│   └── ...
-├── screenshots/        # Folder for demo screenshots
-│   ├── question_screen.png
-│   ├── answer_screen.png
-│   └── ...
-├── package.json
-├── tailwind.config.js
-├── tsconfig.js
-└── ...
+
 
 ###  `Styling`
 Tailwind CSS classes are used for styling. You can customize styles in the index.css file or directly in your components.
@@ -81,10 +61,10 @@ Tailwind CSS classes are used for styling. You can customize styles in the index
 Framer Motion is used for animations. You can customize or add more animations in the Question.tsx component.
 
 ## Technologies
-React
-TypeScript
-Tailwind CSS
-Framer Motion
+ - React
+ - TypeScript
+ - Tailwind CSS
+ - Framer Motion
 
 
 
